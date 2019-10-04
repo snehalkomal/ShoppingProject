@@ -7,16 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1 align="center">BOHOMIAN BOUTIQUE</h1>
-<p align="center">
-<a href ="login.jsp">LOGIN</a> &nbsp; &nbsp;
-<a href ="PreRegistrationServlet">REGISTER</a>
-<a href="extra.jsp">Some Page</a>
-
-</p>
-<br/>
-<img src="images/img1.jfif"  height="200" width="150"/>
-<img src="images/img2.jfif"  height="200" width="150"/>
-
+hello people!
 </body>
 </html>
